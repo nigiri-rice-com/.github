@@ -85,9 +85,9 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/nigiri-rice-com/developer-portal-and-observability">developer-portal-and-observability</a></h3>
-      <p><strong>Qiita 7大ドキュメント完全準拠 開発者ポータル ＆ 統合監視基盤</strong></p>
+      <p><strong>7つの必須ドキュメント体系 開発者ポータル ＆ 統合監視基盤</strong></p>
       <ul>
-        <li>Qiita 策定の7つの必須ドキュメント基準に準拠した統合ポータル（FastAPI）</li>
+        <li>Qiita人気知見（@komeri氏提唱）を参考に実務適用した7大ドキュメント統合ポータル（FastAPI）</li>
         <li>Mermaid.js によるアーキテクチャ図の動的描画＆全文検索エンジン</li>
         <li>Uptime Kuma による外形監視＆パブリックステータスページ</li>
         <li>Prometheus ＆ Grafana による包括的フルスタック可観測性</li>
